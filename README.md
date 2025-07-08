@@ -105,12 +105,10 @@ log management and analysis are crucial parts of Linux system administration, tr
 grep "Failed password" /var/log/auth.log | awk '{print $1, $2, $3, $11}' | sort | uniq -c | sort -nr
 ```
 
-## 👨‍💻 Author
-
 **Atul Kamble**
 
-- 🌐 [Website](https://www.atulkamble.in)
+- 💼 [LinkedIn](https://www.linkedin.com/in/atuljkamble)
 - 🐙 [GitHub](https://github.com/atulkamble)
 - 🐦 [X](https://x.com/Atul_Kamble)
-- 💼 [LinkedIn](https://www.linkedin.com/in/atuljkamble)
 - 📷 [Instagram](https://www.instagram.com/atuljkamble)
+- 🌐 [Website](https://www.atulkamble.in)
